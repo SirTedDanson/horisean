@@ -6,7 +6,7 @@
 
 body {
   background-color: #d9dcd6;
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 header {
@@ -14,17 +14,23 @@ header {
   background-color: #2a607c;
 }
 
+
 header h1 {
   font-weight: bold;
   font-size: 48px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   color: #ffffff;
   margin: 0;
   display: inline;
 }
 
+header h1 .seo {
+  color: #d9dcd6;
+}
+
 header a {
   text-decoration: none;
-  color: #d9dcd6
+  color: #ffffff
 }
 
 header nav {
@@ -43,17 +49,13 @@ header nav ul li a {
   margin-left: 25px;
 }
 
-p {
-  font-size: 16px;
-}
-
 .hero {
-    height: 800px;
-    width: 100%;
-    margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
-    background-size: cover;
-    background-position: center;
+  height: 800px;
+  width: 100%;
+  margin-bottom: 25px;
+  background-image: url("../images/digital-marketing-meeting.jpg");
+  background-size: cover;
+  background-position: center;
 }
 
 .services {
@@ -61,39 +63,35 @@ p {
   display: inline-block;
   margin-left: 20px;
   overflow: auto;
-  }
-  .service-content{
+}
+
+.service-article {
   margin-bottom: 20px;
   padding: 50px;
   height: 300px;
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   background-color: #0072bb;
   color: #ffffff;
-  }
+}
   
-  .services img {
+.services img {
   max-height: 200px;
-  }
+}
   
-  .service-content h2 {
+.service-article h2 {
   margin-bottom: 20px;
   font-size: 36px;
   margin-right: 50px;
-  }
+}
   
-  .service-content p {
-  margin-right: 20px;
-  }
-  
-  .float-left {
+.float-left {
   float: left;
   margin-right: 25px;
-  }
+}
   
-  .float-right {
+.float-right {
   float: right;
   margin-left: 25px;
-  }
+}
 
 .benefits {
   margin-right: 20px;
@@ -102,7 +100,6 @@ p {
   float: right;
   width: 20%;
   height: 100%;
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   background-color: #2589bd;
 }
 
