@@ -88,24 +88,6 @@ header nav ul li a {
 }
 /* Services Styling End */
 /*----------------------------------------------------------------*/
-/* Utility Classes Start */
-.float-left {
-  float: left;
-}
-  
-.float-right {
-  float: right;
-}
-
-.margin-left {
-  margin-left: 24px;
-}
-
-.margin-right {
-  margin-right: 24px;
-}
-/* Utility Classes End */
-/*----------------------------------------------------------------*/
 /* Benefits Style Start */
 .benefits {
   margin: 25px 20px 32px 0;
@@ -133,4 +115,22 @@ header nav ul li a {
   color: #ffffff;
 }
 /* Benefits Style End */
+/*----------------------------------------------------------------*/
+/* Utility Classes Start */
+.float-left {
+  float: left;
+}
+  
+.float-right {
+  float: right;
+}
+
+.margin-left {
+  margin-left: 24px;
+}
+
+.margin-right {
+  margin-right: 24px;
+}
+/* Utility Classes End */
 /*----------------------------------------------------------------*/
