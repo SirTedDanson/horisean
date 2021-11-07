@@ -116,7 +116,7 @@ header nav ul li a {
 }
 /* Benefits Style End */
 /*----------------------------------------------------------------*/
-/* Utility Classes Start */
+/* Utilities */
 .float-left {
   float: left;
 }
@@ -132,5 +132,3 @@ header nav ul li a {
 .margin-right {
   margin-right: 24px;
 }
-/* Utility Classes End */
-/*----------------------------------------------------------------*/
