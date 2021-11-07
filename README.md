@@ -10,6 +10,9 @@ A website that offers online social solution services.
 ## Website
 https://sirteddanson.github.io/horiseon/
 
+## Screenshot
+![](assets/images/Horiseon%20Page%20Screenshot.png)
+
 ## Contribution
 Made with ❤️ by Matthew Dwyer
 
